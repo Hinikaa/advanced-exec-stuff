@@ -1,6 +1,8 @@
-# advanced-exec-stuff
+# READ!
 
-Here is basicly everything you need to make ur own exec UI.
+Here is basicly everything you need, to make ur own working executor.
+The files are intended for beginners at script/exploit-ing what means: Dont think that the files are very overpowered.
+Its a simple "Starter Kit"
 
 # _Be aware!_
 The API will most likely be outdated, I will try to find a new "aka" working one asap.
